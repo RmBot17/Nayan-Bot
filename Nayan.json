@@ -1,5 +1,5 @@
 {
-  "author": "Rahim",
+  "author": "Nayan",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -9,7 +9,7 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "Rahim-bot",
+  "BOTNAME": "Nayan-bot",
   "PREFIX": "/",
   "react": "☠️",
   "OPERATOR": [
