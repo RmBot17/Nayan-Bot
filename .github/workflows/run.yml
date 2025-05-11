@@ -1,4 +1,4 @@
-name: Rahim-Bot
+name: Nayan-Bot
 
 on:
   push:
@@ -22,5 +22,5 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Rahim-Bot
+      - name: Nayan-Bot
         run: npm start
